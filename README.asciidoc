@@ -1,4 +1,4 @@
-Trivial Bootstrap g8 Template for Bowler
+Trivial Bootstrap giter8 Template for Bowler
 ========================================
 
 To Use:
@@ -12,7 +12,8 @@ To Use:
 Thanks!
 -------
 
-I completely stole the prototype application from the
+I completely stole adapted the prototype application from the
 wfaler/bowler-quickstart github project.  Any errors, however, are
 mine.
 
+giter8 can be found at: https://github.com/n8han/giter8
