@@ -5,8 +5,11 @@ To Use:
 -------
 
   $ g8 kevinmontuori/bowler.g8
+
   $ cd <project name>
+
   $ sbt
+
   now compile, test, container:{start,stop}, &c.
 
 Thanks!
