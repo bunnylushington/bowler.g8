@@ -1,0 +1,18 @@
+Trivial Bootstrap g8 Template for Bowler
+========================================
+
+To Use:
+-------
+
+  $ g8 kevinmontuori/bowler.g8
+  $ cd <project name>
+  $ sbt
+  now compile, test, container:{start,stop}, &c.
+
+Thanks!
+-------
+
+I completely stole the prototype application from the
+wfaler/bowler-quickstart github project.  Any errors, however, are
+mine.
+
